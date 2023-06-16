@@ -7,7 +7,8 @@
 
 <a name='figma'>**Макет в Figma**</a>
 
-[Ссылка на макет в Figma]([https://www.figma.com/file/bn81q1djMwBWAGhyvEXWnf/landing?type=design&t=qz064oSyElmWltqF-0](https://www.figma.com/file/bn81q1djMwBWAGhyvEXWnf/landing?type=design&t=qz064oSyElmWltqF-0))
+
+[Ссылка на макет в Figma](https://www.figma.com/file/bn81q1djMwBWAGhyvEXWnf/landing?type=design&t=qz064oSyElmWltqF-0)
 
 <a name='skills'>**Какие навыки приобрела**</a>
 
