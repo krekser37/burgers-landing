@@ -7,7 +7,7 @@
 
 <a name='figma'>**Макет в Figma**</a>
 
-[Ссылка на макет в Figma](https://www.figma.com/file/hIygyHnVROMASm5RJ4jaNu/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%22-(Copy)?type=design&node-id=0-1&t=eomJyw2cUThh5WtL-0)
+[Ссылка на макет в Figma]([https://www.figma.com/file/hIygyHnVROMASm5RJ4jaNu/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%22%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%22-(Copy)?type=design&node-id=0-1&t=eomJyw2cUThh5WtL-0](https://www.figma.com/file/bn81q1djMwBWAGhyvEXWnf/landing?type=design&t=qz064oSyElmWltqF-0)
 
 <a name='skills'>**Какие навыки приобрела**</a>
 
